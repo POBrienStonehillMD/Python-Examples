@@ -5,8 +5,9 @@
 Topic to be covered:
 * Data Cleaning
 * Data Exploration
+* Data Visualization
 * Performing predictive modeling using Machine Learning Models
-* Utilizing SKlearn and TensorFlow
+* Utilizing Pandas, Numpy, Matplotlib, Seaaborn, SKlearn and TensorFlow
 
 ## Dataset exploration
 
